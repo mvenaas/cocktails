@@ -1,18 +1,5 @@
-.content {
-  background: red;
-  color: white;
-  font-size: 3em;
-}
-
-.header {
-  background: red;
-  color: white;
-  font-size: 3em;
-}
-
-.footer {
-  background: red;
-  color: white;
-  font-size: 3em;
-  word-wrap: break-word;
+.infocard {
+  background:green;
+  padding: 10px;
+  border-radius: 10px;
 }

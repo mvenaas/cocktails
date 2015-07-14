@@ -10,3 +10,5 @@ insecure
 gadicohen:famous@=0.5.2
 gadicohen:famous-views
 mquandalle:jade
+semantic:ui
+flemay:less-autoprefixer
