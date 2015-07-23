@@ -1,0 +1,8 @@
+template(name = "card") 
+  each drinks
+    div(class = "cardStyle #{selectedClass}")
+      div(class = "cocktailName") 
+        h1 #{title}
+      div(class = "ingredient")
+        ul
+          p #{ingredient}
